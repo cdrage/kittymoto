@@ -1,0 +1,81 @@
+<div class="first home-3"><!-- Hero Section-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="hero-content wow fadeIn">
+          <div class="hero-content-inner">
+            <h4></h4>
+            <h1>
+Unique and innovative string, painting and 3D printed art.
+            </h1>
+            <p>
+              Kittymoto is a unique and creative store that specializes in selling string art, creative artwork, and 3D
+              printed art. Our store is a haven for art lovers who appreciate handcrafted pieces with a touch of
+              innovation and modernity.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-7">
+        <div class="hero-img loop-video">
+          <div class="hero-content">
+          </div>
+        <div class="hero-img">
+          <img class="img-fluid" src="assets/images/stringart.png" alt="String Art">
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="trackmaps" class="what home-3"><!-- Hero Section-->
+  <div class="container">
+    <div class="flex-intro align-center wow fadeIn">
+      <h2>Track Map Sculptures</h2>
+      <p>Hundreds of track sculptures have been shipped and hung on walls!</p>
+    </div>
+    <div class="row">
+
+      <div class="col-md-5">
+        <div class="hero-img">
+          <img class="img-fluid" src="assets/images/customers/office.jpg" alt="Picture of tracks">
+        </div>
+      </div>
+
+      <div class="col-md-7">
+        <div class="hero-content wow fadeIn">
+          <div class="hero-content-inner">
+            <h4>Hang it on your</h4>
+            <p>
+              • Office wall
+              <br>
+              • Garage
+              <br>
+              • Pit area
+              <br>
+              • Enclosed trailer
+              <br>
+              • Mancave
+            </p>
+            <br>
+            <h4>Show off what tracks you've been to</h4>
+            <p>
+              • Each track has been carefully designed to match the exact layout you've ridden
+              <br>
+              • Choose from different track layouts and variations
+              <br>
+              • Using premium PETG infused with Carbon Fiber to give a unique look
+              <br>
+              • Over 50+ different tracks!
+            </p>
+            <br>
+            <a class="btn-action" href="%TRACKMAPS_ORDER_LINK%">Order Now</a>
+            <a class="btn-success" href="/trackmaps">View more information</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div><!-- Hero End -->
