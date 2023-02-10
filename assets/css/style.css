@@ -150,13 +150,13 @@ body {
 }
 
 .logo .tld {
-	background: #047aed;
+	background: #a66aca;
 }
 
 .tld {
 	width: 40px;
 	height: 40px;
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 	border-radius: 50%;
 	display: table;
@@ -283,9 +283,9 @@ body {
 	white-space: nowrap;
 	cursor: pointer;
 	background-color: transparent;
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
-	border: 1px solid #047aed !important;
+	border: 1px solid #a66aca !important;
 	border-radius: 50px;
 	box-sizing: border-box;
 	-webkit-transition: 0.2s;
@@ -295,11 +295,11 @@ body {
 
 .btn-nav:hover {
 	color: #FFFFFF;
-	background: #047aed;
+	background: #a66aca;
 }
 
 .btn-nav:focus, .btn-nav:active {
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 }
 
@@ -496,7 +496,7 @@ body {
 }
 
 .btn-success:focus, .btn-success:active {
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 	border: 1px solid transparent !important;
 	outline: none !important;
@@ -518,9 +518,9 @@ body {
   white-space: nowrap;
   cursor: pointer;
 	background-color: transparent;
-	background: #047aed;
+	background: #a66aca;
   color: #FFFFFF;
-  border: 1px solid #047aed !important;
+  border: 1px solid #a66aca !important;
   border-radius: 20px;
   box-sizing: border-box;
 	-webkit-transition: 0.2s;
@@ -530,26 +530,26 @@ body {
 
 .btn-action:hover {
 	color: #FFFFFF;
-	background: #047aed;
-	border: 1px solid #047aed !important;
+	background: #a66aca;
+	border: 1px solid #a66aca !important;
 	outline: none !important;
 	text-decoration: none;
 }
 
 .btn-action:focus, .btn-action:active {
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 	border: 1px solid transparent !important;
 	outline: none !important;
 }
 
 .btn-alt {
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 }
 
 .btn-alt:hover {
-	background: #047aed;
+	background: #a66aca;
 	color: #FFFFFF;
 	border: 1px solid #6d48e5 !important;
 	outline: none !important;
@@ -558,12 +558,12 @@ body {
 
 .btn-white {
 	background: #FFFFFF;
-	color: #047aed;
+	color: #a66aca;
 }
 
 .btn-white:hover {
 	background: #FFFFFF;
-	color: #047aed;
+	color: #a66aca;
 	border: 1px solid #FFFFFF !important;
 	outline: none !important;
 	text-decoration: none;
@@ -600,7 +600,7 @@ body {
 	background: #FFEEFF;
 	background: #fafafa;
 	background: linear-gradient(to bottom, #0ab3e4, #102976);
-	background: #047aed;
+	background: #a66aca;
 	position: relative;
 	padding: 100px 0 50px 0;
 }
@@ -809,7 +809,7 @@ body {
   font-size: 13px;
 	font-weight: 500;
 	height: 50px;
-  border: 1px solid #047aed;
+  border: 1px solid #a66aca;
   border-radius: 4px;
 	background-color: #FFFFFF;
   outline: none;
@@ -820,7 +820,7 @@ body {
 .sub-form input:focus {
 	outline: none !important;
 	background: #FFFFFF;
-	border: 1px solid #047aed;
+	border: 1px solid #a66aca;
 }
 
 .sub-form .submit-button {
@@ -831,7 +831,7 @@ body {
   margin: 0 auto;
 	margin: 15px 0;
   padding: 0 25px 0 25px;
-	background: #047aed;
+	background: #a66aca;
 	font-family: 'Montserrat';
 	font-size: 14px;
 	font-weight: 500;
@@ -851,7 +851,7 @@ body {
 }
 
 .sub-form .submit-button:focus, .sub-form .submit-button:active {
-	background: #047aed;
+	background: #a66aca;
 }
 
 #email-error {
@@ -930,7 +930,7 @@ body {
 .home-split .flx_1 {
 	background: #1E3B70;
 	background: #dbd9cd;
-	background: #047aed;
+	background: #a66aca;
 	background: #6892d5;
 	background: #F9F9F9;
 	line-height: normal;
@@ -1283,7 +1283,7 @@ ul#countdown li {
   border-radius: 30px;
   margin-left: -35px;
   padding: 0 25px 0 25px;
-	background: #047aed;
+	background: #a66aca;
 	font-family: 'Montserrat';
 	font-size: 14px;
 	font-weight: 500;
@@ -1336,7 +1336,7 @@ ul#countdown li {
 	font-family: 'Montserrat';
 	font-size: 13px;
 	font-weight: 500;
-	color: #047aed;
+	color: #a66aca;
 }
 
 .yd_cta_box #chimp-email-error {
@@ -1352,7 +1352,7 @@ ul#countdown li {
 }
 
 .success-message {
-	color:#047aed;
+	color:#a66aca;
 	margin-top: 5px;
 }
 
@@ -1582,7 +1582,7 @@ ul#countdown li {
 	font-family: "Open Sans";
 	font-size: 14px;
 	font-weight: 600;
-	color: #047aed;
+	color: #a66aca;
 	position: relative;
   display: inline-block;
   text-decoration: none;
@@ -1663,7 +1663,7 @@ ul#countdown li {
 /*
 	.cta_box .btn-action {
 		background: #FFFFFF;
-		color: #047aed;
+		color: #a66aca;
 	}*/
 
 	.yd_cta_sub {
@@ -2166,7 +2166,7 @@ ul#countdown li {
 	font-family: 'Open Sans';
 	font-size: 14px;
 	font-weight: 400;
-	color: #047aed;
+	color: #a66aca;
 	line-height: 1.4;
 	text-decoration: none;
 }
@@ -2318,7 +2318,7 @@ ul#countdown li {
 	font-family: 'Montserrat';
 	font-size: 12px;
 	font-weight: 500;
-	color: #047aed;
+	color: #a66aca;
 	position: relative;
 	display: inline-block;
 	text-decoration: none;
@@ -2379,7 +2379,7 @@ ul#countdown li {
 .yd_faqs .faq_inner a {
 	display: inline;
 	font-family: 'Open Sans';
-	color: #047aed;
+	color: #a66aca;
 	font-size: 14px;
 	font-weight: 400;
 	text-decoration: none;
@@ -2639,7 +2639,7 @@ ul#countdown li {
 
 .yd_pricing .btn-link {
 	font-family: 'Open Sans';
-	color: #047aed;
+	color: #a66aca;
 	font-size: 13px;
 	font-weight: 400;
 	text-decoration: none;
@@ -2661,7 +2661,7 @@ ul#countdown li {
 	margin: 0 auto;
 	margin-bottom: 0;
 	border-radius: 5px;
-	background: #047aed;
+	background: #a66aca;
 	border: 1px solid #ececec;
 	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 	cursor: pointer;
@@ -2762,7 +2762,7 @@ ul#countdown li {
 
 .pricing-section .table-right {
 	color: #FFFFFF !important;
-	background-color: #047aed;
+	background-color: #a66aca;
 }
 
 .pricing-section .table-right h3, .pricing-section .table-right p {
@@ -2851,7 +2851,7 @@ ul#countdown li {
 }
 
 .btn-white {
-	color: #047aed;
+	color: #a66aca;
 	background-color: #FFFFFF !important;
 	border-color: #FFFFFF !important;
 }
@@ -2920,7 +2920,7 @@ ul#countdown li {
 	padding: 1.2rem 1.2rem;
 	margin-top: 0;
 	border-radius: 0;
-	background: url(../icons/up.png) center top 0.5rem no-repeat #047aed;
+	background: url(../icons/up.png) center top 0.5rem no-repeat #a66aca;
 	text-decoration: none;
 	-webkit-transition: 200ms;
 	-moz-transition: 200ms;
@@ -2996,7 +2996,7 @@ ul#countdown li {
 
 
 	.logo .tld {
-		background: #047aed;
+		background: #a66aca;
 	}
 
 	.navbar-nav {
@@ -3547,7 +3547,7 @@ ul#countdown li {
 	font-size: 14px;
 	font-weight: 600;
   margin-bottom:25px;
-	color: #047aed;
+	color: #a66aca;
 	position: relative;
   display: inline-block;
   text-decoration: none;
@@ -3642,7 +3642,7 @@ margin-top:50px !important;
 font-family: "Open Sans";
     font-size: 14px;
     font-weight: 600;
-    color: #047aed;
+    color: #a66aca;
     position: relative;
     display: inline-block;
     text-decoration: none;
